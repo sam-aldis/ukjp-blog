@@ -1,8 +1,9 @@
 doctype html
 html
 	head
-		title "ukjp - labs blog"
-		link(rel="prefetch" type="html" src="https://medium.com/ukjp-labs")
+		title ukjp - labs blog
+		link(rel="cache" type="html" src="https://medium.com/ukjp-labs" async)
 		link(rel="stylesheet" src="./index.css")
+		script(src='./index.js')
 	body
 		iframe(src="https://medium.com/ukjp-labs" class="fullscreen")
