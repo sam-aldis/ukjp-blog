@@ -1,0 +1,19 @@
+{
+  "name": "ukjp-blog",
+  "version": "1.0.0",
+  "description": "ukjp-blog redirect",
+  "main": "index.js",
+  "scripts": {
+    "test": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-aldis/ukjp-blog.git"
+  },
+  "author": "sam aldis",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/sam-aldis/ukjp-blog/issues"
+  },
+  "homepage": "https://github.com/sam-aldis/ukjp-blog#readme"
+}

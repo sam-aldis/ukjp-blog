@@ -1,0 +1,16 @@
+body, html {
+	width : 100%;
+	height : 100%;
+	margin : 0px;
+	padding: 0px;
+}
+iframe.fullscreen {
+	position: fixed;
+	left : 0px;
+	right : 0px
+	top : 0px;
+	bottom: 0px;
+	z-index: 100;
+	width:auto;
+	height: auto;
+}
