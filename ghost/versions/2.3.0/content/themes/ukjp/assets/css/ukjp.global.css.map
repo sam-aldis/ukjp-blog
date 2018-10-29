@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,KAAM;EACL,SAAS,CAAE,SAAS;EACpB,MAAM,CAAE,MAAM;EACd,OAAO,CAAE,OAAO",
+"sources": ["scss/ukjp.global.scss"],
+"names": [],
+"file": "ukjp.global.css"
+}

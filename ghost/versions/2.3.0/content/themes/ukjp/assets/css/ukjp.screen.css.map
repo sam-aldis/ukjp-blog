@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,YAAa;EACT,QAAQ,EAAE,QAAQ;EAClB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,sCAAuC;EACnD,eAAe,EAAE,KAAK",
+"sources": ["scss/ukjp.screen.scss"],
+"names": [],
+"file": "ukjp.screen.css"
+}

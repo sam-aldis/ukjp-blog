@@ -1,0 +1,9 @@
+@import "vars/_index";
+.site-header {
+    position: relative;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: #fff;
+    background: color($primary) no-repeat center center;
+    background-size: cover;
+}
