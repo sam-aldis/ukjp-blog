@@ -104,7 +104,7 @@
     "sqlite3": "4.0.1"
   },
   "devDependencies": {
-    "eslint": "4.19.1",
+    "eslint": "9.26.0",
     "eslint-plugin-ghost": "0.0.27",
     "grunt": "1.0.3",
     "grunt-bg-shell": "2.3.3",
